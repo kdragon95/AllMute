@@ -7,7 +7,7 @@ This source is opensource.
 
 You can override this source and use/distribute freely.
 
-But when you override or distribute this source, you must emblemize first coder (kdragon95 or kdragon).
+But when you override or distribute this source, you must emblemize first coder (kdragon95).
 
 You can't use this for commerce.
 
