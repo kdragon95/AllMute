@@ -5,7 +5,7 @@ A Bukkit plugin which controls all player's chat configuration.
 
 This source is opensource.
 
-You can override this source and use/distribute free.
+You can override this source and use/distribute freely.
 
 But when you override or distribute this source, you must emblemize first coder (kdragon95 or kdragon).
 
