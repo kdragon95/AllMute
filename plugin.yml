@@ -1,0 +1,9 @@
+﻿name: AllMute
+version: 1.0
+main: kr.co.minecraftforum.kdragon.allmute.AllMute
+author: kdragon
+commands:
+  채팅:
+    description: 플러그인 기본 명령어
+    aliases: [챗]
+    usage: 구문 오류입니다! 명령어를 다시 확인해 주세요.
